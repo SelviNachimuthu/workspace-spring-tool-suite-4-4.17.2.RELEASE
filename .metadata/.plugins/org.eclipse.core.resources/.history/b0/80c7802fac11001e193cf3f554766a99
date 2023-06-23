@@ -17,7 +17,7 @@ public class ClassObjectDemo {
 
 		Employee emp = new Employee();
 		emp.work();
-		emp.name = "Sonu after edit";
+		emp.name = "Sonu";
 		System.out.println(emp.name);
 		Employee emp2 = new Employee();
 		emp2.work();
