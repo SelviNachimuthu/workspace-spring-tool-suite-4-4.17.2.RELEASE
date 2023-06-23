@@ -1,0 +1,16 @@
+package com.example.demo;
+
+@SpringBootTest
+public class HelloTests {
+	
+	@Test
+	
+	public void testhello() {
+		
+		if (10+10 ==20)
+			System.out.println("Yes");
+		else 
+			System.out.println("No");
+	}
+
+}
